@@ -4,11 +4,17 @@
 }
 
 .block-1 {
-
+    padding-top: 2em;
+    padding-left: 2em;
 }
 
 .block-2 {
     margin-left: auto;
+    padding-right: 2em;
+    padding-top: 2em;
+    font-size: 2em;
+    text-decoration: none;
+
 }
 
 #one {
@@ -21,6 +27,19 @@
 
 #one .block {
     height: 100%;
+}
+
+body #two .container {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+#six {
+    padding-bottom: 2em;
+}
+
+.container-image-section2 img {
+    width: 100%;
 }
 
 .clearfix {
