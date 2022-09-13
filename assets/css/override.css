@@ -1,0 +1,37 @@
+#wrapper {
+    background: #fff;
+    padding-right: inherit !important;
+}
+
+.block-1 {
+    height: 100%;
+    float: left;
+    padding-right: 2em;
+    padding-top: 1em;
+    padding-left: 2em;
+}
+
+.block-2 {
+    float: right;
+    height: 100%;
+    padding-top: 2.2em;
+    padding-right: 2em;
+}
+
+.block-2 span.phone-number {
+    font-size: 2em;
+    font-family: monospace;
+    color: #3e3c3c;
+}
+
+#one {
+    padding-bottom: 2em;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.image-width-100 img {
+    width: 100%;
+}
