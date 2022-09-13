@@ -14,25 +14,37 @@
 .block-2 {
     float: right;
     height: 100%;
-    padding-top: 2.2em;
-    padding-right: 2em;
+    padding-right: 1em;
 }
 
-body .block-2 a.phone-number {
+.block-2 .phone-number-wrapper {
+    padding-top: 3.09em;
+    padding-right: 1em;
+}
+
+.block-2 a.phone-number {
     font-size: 2em;
     font-family: monospace;
     text-decoration: none;
     color: #3e3c3c;
 }
 
-body .block-2 a.phone-number:hover {
+.block-2 a.phone-number:hover {
     text-decoration: none;
 }
 
+.block-2>div {
+    float: left;
+    height: 100%;
+}
 
+.block-2 img {
+    height: 100%;
+}
 
 #one {
     padding-bottom: 2em;
+    height: 11em;
 }
 
 .clearfix {
