@@ -18,11 +18,18 @@
     padding-right: 2em;
 }
 
-.block-2 span.phone-number {
+body .block-2 a.phone-number {
     font-size: 2em;
     font-family: monospace;
+    text-decoration: none;
     color: #3e3c3c;
 }
+
+body .block-2 a.phone-number:hover {
+    text-decoration: none;
+}
+
+
 
 #one {
     padding-bottom: 2em;
