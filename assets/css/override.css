@@ -12,14 +12,10 @@
 }
 
 .block-2 {
-    float: right;
     height: 100%;
     padding-right: 1em;
-}
-
-.block-2 .phone-number-wrapper {
-    padding-top: 3.09em;
-    padding-right: 1em;
+    float: right;
+    padding-top: 4em;
 }
 
 .block-2 a.phone-number {
@@ -33,18 +29,23 @@
     text-decoration: none;
 }
 
-.block-2>div {
-    float: left;
+.block-3 {
     height: 100%;
+    float: right;
 }
 
-.block-2 img {
+.block-3 img {
     height: 100%;
 }
 
 #one {
     padding-bottom: 2em;
     height: 11em;
+    width: 100%;
+}
+
+#one .block {
+    display: inline-block;
 }
 
 .clearfix {
