@@ -4,33 +4,11 @@
 }
 
 .block-1 {
-    padding-top: 2em;
+
 }
 
 .block-2 {
     margin-left: auto;
-    padding-top: 4em;
-    padding-right: 1em;
-}
-
-.block-2 a.phone-number {
-    font-size: 2em;
-    font-family: monospace;
-    text-decoration: none;
-    color: #3e3c3c;
-}
-
-.block-2 a.phone-number:hover {
-    text-decoration: none;
-}
-
-.block-3 {
-    padding-top: 1em;
-    padding-right: 2em;
-}
-
-.block-3 img {
-    height: 8em;
 }
 
 #one {
